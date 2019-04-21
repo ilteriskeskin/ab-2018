@@ -1,6 +1,6 @@
 # Rabbit MQ
 
-Rabbit MQ GPL uyumlu Mozilla Piblic Lisansi ile dağıtılan özgür bir mesajlaşma platformudur.
+Rabbit MQ GPL uyumlu Mozilla Public Lisansi ile dağıtılan özgür bir mesajlaşma platformudur.
 
 Uygulamalar arasında mesajların alınması, kuyruklara dağıtılması ve alıcılara teslim edilmesi
 işini yapar. Birkaç başka protokolü desteklese de, en temel ve en çok kullanılan özelliği
